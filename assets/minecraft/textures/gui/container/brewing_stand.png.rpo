@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "DTG:brewingStandCheatSheet"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/container/brewing_stand2.png"
+  ]
+}

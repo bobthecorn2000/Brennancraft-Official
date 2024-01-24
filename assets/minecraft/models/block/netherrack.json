@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "block/netherrack",
+        "top": "block/netherracktop",
+	"bottom": "block/bottomnether"
+    }
+}

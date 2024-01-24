@@ -1,0 +1,19 @@
+{
+    "music.game": {
+	    "category": "music",
+	    "sounds": [
+		    {
+			    "name": "music/game/10000",
+			    "stream": true
+		    },
+		    {
+			    "name": "music/game/file",
+			    "stream": true
+		    },
+		    {
+			    "name": "music/game/Waluigi",
+			    "stream": true
+		    }
+	    ]
+    }
+}

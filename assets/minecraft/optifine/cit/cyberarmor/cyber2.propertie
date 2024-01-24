@@ -1,0 +1,3 @@
+type=armor
+texture.iron_layer_2=cyber2
+nbt.display.Name=iregex:(cyber|electric)
